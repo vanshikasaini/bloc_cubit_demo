@@ -2,6 +2,7 @@ import 'package:counter_demo/bloc/counter_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+// Bloc demo page
 class IncDecBlocPage extends StatelessWidget {
   const IncDecBlocPage({super.key});
 
